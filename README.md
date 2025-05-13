@@ -88,6 +88,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mouha-med-ouchen/Mouha-med-ouchen/output/snake.svg" alt="Snake animation" />
+
 
 ###
